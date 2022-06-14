@@ -84,10 +84,7 @@
             "drupal/core": "-p2"
         },
         "patches": {
-            "drupal/pathauto": {
-                "Add install messages": "https://www.drupal.org/files/issues/2018-12-12/pathauto-install_messages-3009974.patch"
-
-            }
+            
         }
     }
 }
